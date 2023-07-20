@@ -1,0 +1,8 @@
+#introduction {
+    /* background-color: rgba(68, 231, 122, 0.76); */
+    background-image: url('https://picsum.photos/seed/picsum/800/300');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+    height: 40vh;
+}
